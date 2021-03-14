@@ -1,4 +1,4 @@
-#SQL Analysis - HP employees dataset
+# SQL Analysis - HP employees dataset
 
 This is a project that involved data engineering and data analysis. I have analized 6 CSV files that comprise information regarding HP employees between 1980s and 1990s. Below, I will describe the different stages of this project: 
 
