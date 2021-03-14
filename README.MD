@@ -4,7 +4,7 @@ This is a project that involved data engineering and data analysis. I have anali
 
 #### Data Modeling
 
-* I have inspected the CSVs and sketch out an ERD of the tables.I have included a screenshoot of this ERD in this repository.
+* I have inspected the CSVs and sketched out an ERD of the tables.I have included a screenshoot of this ERD in this repository.
 
 #### Data Engineering
 
@@ -34,7 +34,7 @@ Once I completed the database, I performed the following analysis:
 
 #### Additional Data Analysis
 
-* I imported the SQL database into Pandas, created a histogram to visualize the most coomn salary ranges for employees, and created a bar chart of average salary by title.
+* I imported the SQL database into Pandas, created a histogram to visualize the most common salary ranges for employees, and created a bar chart of average salary by title.
 
 ------
 
